@@ -1,5 +1,5 @@
 ### Hi there 👋
-![This is an image](<https://discord.c99.nl/widget/theme-3/806458021848678420.png>)
+![This is an image](<https://discord.c99.nl/widget/theme-2/749334476898697296.png>)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
