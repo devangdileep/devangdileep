@@ -37,17 +37,21 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
 </div>
 
+<div align="center">
+</div>
+
+###
+
 <h3 align="left">🔥   My Stats :</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luttapi123&show_icons=true&locale=en" alt="luttapi123" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luttapi123&" alt="luttapi123" /></p>
+###
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=luttapi123&show_icons=true&locale=en&layout=compact" alt="luttapi123" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LUTTAPI123&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="220" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LUTTAPI123&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=LUTTAPI123&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luttapi123" alt="luttapi123" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
+###
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/luttapi"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="luttapi" /></a></p><br><br>
