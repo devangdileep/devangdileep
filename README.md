@@ -61,7 +61,7 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=LUTTAPI123&locale=en&mode=weekly&theme=gruvbox&hide_border=true&order=3" height="180" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LUTTAPI123&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=gruvbox&hide_border=true&order=2" height="180" alt="languages graph"  />
+  <img src="![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)"  />
 </div>
 
 ###
