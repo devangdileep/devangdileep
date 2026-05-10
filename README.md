@@ -1,21 +1,161 @@
-<h1 align="center">Hi 👋, I'm Devang</h1>
-<h3 align="center">A passionate Python Developer And A Cyber Security Enthusiast</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=luttapi123&label=Profile%20views&color=0e75b6&style=flat" alt="luttapi123" /> </p>
+<h1 align="center">Hi 👋, I'm Devang Dileep</h1>
 
+<h3 align="center">
+Building scalable applications, modern mobile experiences, and AI-powered solutions.
+</h3>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/burnedpotato) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dev._ang_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/devangdileep) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/devang_dileep) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:devangdileep123@gmail.com) 
+<p align="center">
+Passionate about software development, app optimization, modern UI/UX, and building high-performance applications.
+</p>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=devangdileep&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=devangdileep&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=devangdileep&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=devangdileep&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+---
 
+## 🚀 About Me
 
-[![](https://visitcount.itsvg.in/api?id=devangdileep&icon=0&color=0)](https://visitcount.itsvg.in)
+- 💻 Passionate about modern software development
+- 📱 Building high-performance mobile and web applications
+- ⚡ Focused on scalable architectures and optimized systems
+- 🤖 Exploring AI-integrated applications and automation
+- 🌱 Currently learning advanced backend systems and cloud technologies
+- 🎯 Interested in industry-standard development workflows and clean UI/UX
 
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://linkedin.com/in/devangdileep" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/dev._ang_" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://x.com/devang_dileep" target="_blank">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="mailto:devangdileep123@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💻 Tech Stack
+
+## Languages & Frameworks
+
+<p>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+</p>
+
+---
+
+## Backend & Databases
+
+<p>
+
+<img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E"/>
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+
+</p>
+
+---
+
+## Tools & Platforms
+
+<p>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
+
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=devangdileep&theme=tokyonight&hide_border=true&show_icons=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=devangdileep&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devangdileep&theme=tokyonight&hide_border=true&layout=compact"/>
+
+</p>
+
+---
+
+# 🧠 Currently Exploring
+
+- AI-powered applications
+- Scalable backend systems
+- Flutter performance optimization
+- Modern mobile UI/UX systems
+- Industry-standard app architectures
+- Cloud integrations and automation
+
+---
+
+# ✨ Developer Quote
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://visitcount.itsvg.in/api?id=devangdileep&icon=5&color=6"/>
+
+</p>
+
+---
+
+<h3 align="center">
+Thanks for visiting my profile 🚀
+</h3>
