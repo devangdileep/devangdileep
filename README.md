@@ -144,13 +144,6 @@ Passionate about software development, app optimization, modern UI/UX, and build
 
 ---
 
-<p align="center">
-
-<img src="https://visitcount.itsvg.in/api?id=devangdileep&icon=5&color=6"/>
-
-</p>
-
----
 
 <h3 align="center">
 Thanks for visiting my profile 🚀
