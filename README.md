@@ -7,7 +7,6 @@ Building scalable applications, modern mobile experiences, and AI-powered soluti
 <p align="center">
 Passionate about software development, app optimization, modern UI/UX, and building high-performance applications.
 </p>
----
 
 ## 🚀 About Me
 
