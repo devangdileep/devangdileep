@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0F172A,100:0D1117&height=120&section=header&text=Devang%20Dileep&fontSize=38&fontColor=38BDF8&fontAlignY=45&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:0f172a,50:1e293b,75:0f172a,100:0D1117&height=130&section=header&text=Devang%20Dileep&fontSize=40&fontColor=38BDF8&fontAlignY=42&animation=fadeIn" width="100%"/>
 </div>
 
 <div align="center">
@@ -15,14 +15,14 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/devangdileep"><img src="https://komarev.com/ghpvc/?username=devangdileep&label=Profile+Views&color=38BDF8&style=flat-square" alt="Profile Views"/></a>&nbsp;&nbsp;<img src="https://img.shields.io/github/followers/devangdileep?style=flat-square&color=38BDF8&labelColor=0D1117&label=Followers" alt="Followers"/>&nbsp;&nbsp;<img src="https://img.shields.io/github/stars/devangdileep?style=flat-square&color=38BDF8&labelColor=0D1117&label=Stars&affiliations=OWNER" alt="Stars"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Open%20to-Collaborate-38BDF8?style=flat-square&labelColor=0D1117" alt="Open to Collaborate"/>
+  <samp>👁️ Views: <a href="https://github.com/devangdileep">devangdileep</a> &nbsp;·&nbsp; 👥 Followers: 6 &nbsp;·&nbsp; ⭐ Stars: 1 &nbsp;·&nbsp; 🤝 Open to Collaborate</samp>
 </p>
 
 <!-- ───────────────── 01. ABOUT ME ───────────────── -->
 
 <h3 align="center"><samp><code>01</code>&nbsp;&nbsp;About Me</samp></h3>
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:38BDF8,100:0D1117&height=2" width="35%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:38BDF8,100:0D1117&height=2" width="40%"/>
 </div>
 
 <div align="center">
@@ -31,7 +31,7 @@ I'm a 2nd-year **Computer Science Engineering student** passionate about buildin
 
 <br/>
 
-<img src="https://img.shields.io/badge/🎓_Education-B.Tech_CSE_(2nd_Year)-38BDF8?style=flat-square&labelColor=0D1117"/>&nbsp;<img src="https://img.shields.io/badge/🎯_Focus-DSA_·_Web_Dev_·_AI-38BDF8?style=flat-square&labelColor=0D1117"/>&nbsp;<img src="https://img.shields.io/badge/💻_Languages-Python_·_C++_·_JS_·_Java-38BDF8?style=flat-square&labelColor=0D1117"/>&nbsp;<img src="https://img.shields.io/badge/🤝_Open_To-Open_Source_·_Hackathons-38BDF8?style=flat-square&labelColor=0D1117"/>
+<samp>🎓 <b>Education</b>: B.Tech CSE (2nd Year) &nbsp;·&nbsp; 🎯 <b>Focus</b>: DSA & Web Dev &nbsp;·&nbsp; 💻 <b>Languages</b>: Python, C++, JS, Java &nbsp;·&nbsp; 🤝 <b>Open To</b>: Open Source & Hackathons</samp>
 
 </div>
 
@@ -39,7 +39,7 @@ I'm a 2nd-year **Computer Science Engineering student** passionate about buildin
 
 <h3 align="center"><samp><code>02</code>&nbsp;&nbsp;Tech Stack</samp></h3>
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:38BDF8,100:0D1117&height=2" width="35%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:38BDF8,100:0D1117&height=2" width="40%"/>
 </div>
 
 <p align="center">
@@ -51,13 +51,13 @@ I'm a 2nd-year **Computer Science Engineering student** passionate about buildin
 
 <h3 align="center"><samp><code>03</code>&nbsp;&nbsp;Currently Learning</samp></h3>
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:38BDF8,100:0D1117&height=2" width="35%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:38BDF8,100:0D1117&height=2" width="40%"/>
 </div>
 
 <div align="center">
 
 ```
- [Algorithms & DSA] ──▶ [React + Node.js] ──▶ [Flutter & Mobile] ──▶ [Machine Learning]
+  [ Algorithms & DSA ] ──▶ [ React + Node.js ] ──▶ [ Flutter & Mobile ] ──▶ [ Machine Learning ]
 ```
 
 </div>
@@ -66,7 +66,7 @@ I'm a 2nd-year **Computer Science Engineering student** passionate about buildin
 
 <h3 align="center"><samp><code>04</code>&nbsp;&nbsp;GitHub Analytics</samp></h3>
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:38BDF8,100:0D1117&height=2" width="35%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:38BDF8,100:0D1117&height=2" width="40%"/>
 </div>
 
 <p align="center">
@@ -83,8 +83,6 @@ I'm a 2nd-year **Computer Science Engineering student** passionate about buildin
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=devangdileep&theme=react-dark&hide_border=true&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF&area=true&area_color=38BDF8" alt="Activity Graph" width="95%"/>
 </div>
 
-
-
 <div align="center">
 <img alt="Contribution Snake" src="https://raw.githubusercontent.com/devangdileep/devangdileep/output/github-contribution-grid-snake-dark.svg" width="95%"/>
 </div>
@@ -93,7 +91,7 @@ I'm a 2nd-year **Computer Science Engineering student** passionate about buildin
 
 <h3 align="center"><samp><code>05</code>&nbsp;&nbsp;My Journey</samp></h3>
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:38BDF8,100:0D1117&height=2" width="35%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:38BDF8,100:0D1117&height=2" width="40%"/>
 </div>
 
 <div align="center">
@@ -110,7 +108,7 @@ I'm a 2nd-year **Computer Science Engineering student** passionate about buildin
 
 <h3 align="center"><samp><code>06</code>&nbsp;&nbsp;Coding Philosophy</samp></h3>
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:38BDF8,100:0D1117&height=2" width="35%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:38BDF8,100:0D1117&height=2" width="40%"/>
 </div>
 
 <div align="center">
@@ -123,13 +121,15 @@ I'm a 2nd-year **Computer Science Engineering student** passionate about buildin
 
 <h3 align="center"><samp><code>07</code>&nbsp;&nbsp;How I Work</samp></h3>
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:38BDF8,100:0D1117&height=2" width="35%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:38BDF8,100:0D1117&height=2" width="40%"/>
 </div>
 
 <div align="center">
 
 ```
- 💡 LEARN  ──▶  📋 PLAN  ──▶  ⚡ BUILD  ──▶  🔍 TEST  ──▶  🚀 DEPLOY  ──▶  🔄 ITERATE
+  ┌─────────┐   ┌─────────┐   ┌─────────┐   ┌─────────┐   ┌─────────┐   ┌─────────┐
+  │  LEARN  │──▶│  PLAN   │──▶│  BUILD  │──▶│  TEST   │──▶│ DEPLOY  │──▶│ ITERATE │
+  └─────────┘   └─────────┘   └─────────┘   └─────────┘   └─────────┘   └─────────┘
 ```
 
 </div>
@@ -138,7 +138,7 @@ I'm a 2nd-year **Computer Science Engineering student** passionate about buildin
 
 <h3 align="center"><samp><code>08</code>&nbsp;&nbsp;Beyond The Code</samp></h3>
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:38BDF8,100:0D1117&height=2" width="35%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:38BDF8,100:0D1117&height=2" width="40%"/>
 </div>
 
 <div align="center">
@@ -154,7 +154,7 @@ I'm a 2nd-year **Computer Science Engineering student** passionate about buildin
 
 <h3 align="center"><samp><code>09</code>&nbsp;&nbsp;Connect With Me</samp></h3>
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:38BDF8,100:0D1117&height=2" width="35%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:38BDF8,100:0D1117&height=2" width="40%"/>
 </div>
 
 <div align="center">
@@ -166,7 +166,7 @@ I'm a 2nd-year **Computer Science Engineering student** passionate about buildin
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:0F172A,50:1E293B,75:0F172A,100:0D1117&height=110&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:0f172a,50:1e293b,75:0f172a,100:0D1117&height=120&section=footer&animation=fadeIn" width="100%"/>
 </div>
 
 <p align="center">
