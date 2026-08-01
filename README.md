@@ -21,16 +21,17 @@
   <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborate-818CF8?style=for-the-badge&labelColor=0D1117" alt="Status"/>
 </p>
 
+<br/>
+
 <!-- ───────────────── 01. ABOUT ME ───────────────── -->
 
-<h3 align="center"><samp><code>01</code>&nbsp;&nbsp;About Me</samp></h3>
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,30:38BDF8,70:818CF8,100:0D1117&height=2" width="35%"/>
-</div>
+<h3 align="center">01 &nbsp;·&nbsp; About Me</h3>
 
 <div align="center">
 I'm a 2nd-year **Computer Science Engineering student** passionate about building web apps, mobile experiences, and AI solutions. Currently focused on mastering Data Structures & Algorithms and shipping real-world projects.
 </div>
+
+<br/>
 
 <p align="center">
   <img src="https://img.shields.io/badge/🎓_Education-B.Tech_CSE_(2nd_Year)-38BDF8?style=for-the-badge&labelColor=0D1117"/>&nbsp;
@@ -39,24 +40,22 @@ I'm a 2nd-year **Computer Science Engineering student** passionate about buildin
   <img src="https://img.shields.io/badge/🤝_Open_To-Open_Source_·_Hackathons-818CF8?style=for-the-badge&labelColor=0D1117"/>
 </p>
 
+<br/>
+
 <!-- ───────────────── 02. TECH STACK ───────────────── -->
 
-<h3 align="center"><samp><code>02</code>&nbsp;&nbsp;Tech Stack</samp></h3>
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,30:38BDF8,70:818CF8,100:0D1117&height=2" width="35%"/>
-</div>
+<h3 align="center">02 &nbsp;·&nbsp; Tech Stack</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,cpp,c,java,js,react,nodejs,flutter&theme=dark" alt="Core Stack Row 1"/><br/>
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,mongodb,mysql,firebase,git,vscode&theme=dark" alt="Core Stack Row 2"/>
 </p>
 
+<br/>
+
 <!-- ───────────────── 03. CURRENTLY LEARNING ───────────────── -->
 
-<h3 align="center"><samp><code>03</code>&nbsp;&nbsp;Currently Learning</samp></h3>
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,30:38BDF8,70:818CF8,100:0D1117&height=2" width="35%"/>
-</div>
+<h3 align="center">03 &nbsp;·&nbsp; Currently Learning</h3>
 
 <div align="center">
 
@@ -66,12 +65,11 @@ I'm a 2nd-year **Computer Science Engineering student** passionate about buildin
 
 </div>
 
+<br/>
+
 <!-- ───────────────── 04. GITHUB ANALYTICS ───────────────── -->
 
-<h3 align="center"><samp><code>04</code>&nbsp;&nbsp;GitHub Analytics</samp></h3>
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,30:38BDF8,70:818CF8,100:0D1117&height=2" width="35%"/>
-</div>
+<h3 align="center">04 &nbsp;·&nbsp; GitHub Analytics</h3>
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=devangdileep&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9" alt="GitHub Stats" width="48%"/>
@@ -91,29 +89,27 @@ I'm a 2nd-year **Computer Science Engineering student** passionate about buildin
   <img alt="Contribution Snake" src="https://raw.githubusercontent.com/devangdileep/devangdileep/output/github-contribution-grid-snake-dark.svg" width="95%"/>
 </div>
 
+<br/>
+
 <!-- ───────────────── 05. MY JOURNEY ───────────────── -->
 
-<h3 align="center"><samp><code>05</code>&nbsp;&nbsp;My Journey</samp></h3>
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,30:38BDF8,70:818CF8,100:0D1117&height=2" width="35%"/>
-</div>
+<h3 align="center">05 &nbsp;·&nbsp; My Journey</h3>
 
 <div align="center">
 
-`01` &nbsp;**Started Coding** &nbsp;—&nbsp; Picked up programming out of pure curiosity.  
-`02` &nbsp;**B.Tech CSE** &nbsp;—&nbsp; Diving deep into Data Structures & Algorithms.  
-`03` &nbsp;**Building Apps** &nbsp;—&nbsp; Shipping web, mobile, and AI applications.  
-`04` &nbsp;**Open Source** &nbsp;—&nbsp; Contributing to repositories & hackathons.  
-`05` &nbsp;**What's Next** &nbsp;—&nbsp; Growing into a software engineer, one commit at a time.  
+**01. Started Coding** &nbsp;—&nbsp; Picked up programming out of pure curiosity.  
+**02. B.Tech CSE** &nbsp;—&nbsp; Diving deep into Data Structures & Algorithms.  
+**03. Building Apps** &nbsp;—&nbsp; Shipping web, mobile, and AI applications.  
+**04. Open Source** &nbsp;—&nbsp; Contributing to repositories & hackathons.  
+**05. What's Next** &nbsp;—&nbsp; Growing into a software engineer, one commit at a time.  
 
 </div>
+
+<br/>
 
 <!-- ───────────────── 06. CODING PHILOSOPHY ───────────────── -->
 
-<h3 align="center"><samp><code>06</code>&nbsp;&nbsp;Coding Philosophy</samp></h3>
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,30:38BDF8,70:818CF8,100:0D1117&height=2" width="35%"/>
-</div>
+<h3 align="center">06 &nbsp;·&nbsp; Coding Philosophy</h3>
 
 <div align="center">
 
@@ -121,12 +117,11 @@ I'm a 2nd-year **Computer Science Engineering student** passionate about buildin
 
 </div>
 
+<br/>
+
 <!-- ───────────────── 07. HOW I WORK ───────────────── -->
 
-<h3 align="center"><samp><code>07</code>&nbsp;&nbsp;How I Work</samp></h3>
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,30:38BDF8,70:818CF8,100:0D1117&height=2" width="35%"/>
-</div>
+<h3 align="center">07 &nbsp;·&nbsp; How I Work</h3>
 
 <div align="center">
 
@@ -138,12 +133,11 @@ I'm a 2nd-year **Computer Science Engineering student** passionate about buildin
 
 </div>
 
+<br/>
+
 <!-- ───────────────── 08. BEYOND THE CODE ───────────────── -->
 
-<h3 align="center"><samp><code>08</code>&nbsp;&nbsp;Beyond The Code</samp></h3>
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,30:38BDF8,70:818CF8,100:0D1117&height=2" width="35%"/>
-</div>
+<h3 align="center">08 &nbsp;·&nbsp; Beyond The Code</h3>
 
 <div align="center">
 
@@ -154,12 +148,11 @@ I'm a 2nd-year **Computer Science Engineering student** passionate about buildin
 
 </div>
 
+<br/>
+
 <!-- ───────────────── 09. CONNECT WITH ME ───────────────── -->
 
-<h3 align="center"><samp><code>09</code>&nbsp;&nbsp;Connect With Me</samp></h3>
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,30:38BDF8,70:818CF8,100:0D1117&height=2" width="35%"/>
-</div>
+<h3 align="center">09 &nbsp;·&nbsp; Connect With Me</h3>
 
 <div align="center">
   <a href="https://github.com/devangdileep"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -169,7 +162,7 @@ I'm a 2nd-year **Computer Science Engineering student** passionate about buildin
   <a href="mailto:devangdileep123@gmail.com"><img src="https://img.shields.io/badge/Email-38BDF8?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 
-<br/>
+<br/><br/>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,20:0F172A,40:1E1B4B,60:312E81,80:0F172A,100:0D1117&height=110&section=footer&animation=twinkle" width="100%"/>
