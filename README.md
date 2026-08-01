@@ -1,9 +1,9 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0F172A,100:0D1117&height=140&section=header&text=Devang%20Dileep&fontSize=42&fontColor=38BDF8&fontAlignY=45&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0F172A,100:0D1117&height=120&section=header&text=Devang%20Dileep&fontSize=38&fontColor=38BDF8&fontAlignY=45&animation=fadeIn" width="100%"/>
 </div>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=16&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&height=35&lines=Second-Year+CS+Student;Full-Stack+and+Mobile+Learner;AI+and+ML+Enthusiast;Turning+Curiosity+Into+Code" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=15&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&height=30&lines=Second-Year+CS+Student;Full-Stack+and+Mobile+Learner;AI+and+ML+Enthusiast;Turning+Curiosity+Into+Code" alt="Typing SVG" />
 </div>
 
 <h3 align="center">
@@ -18,131 +18,92 @@
 <a href="https://github.com/devangdileep"><img src="https://komarev.com/ghpvc/?username=devangdileep&label=Profile+Views&color=38BDF8&style=flat-square" alt="Profile Views"/></a>&nbsp;&nbsp;<img src="https://img.shields.io/github/followers/devangdileep?style=flat-square&color=38BDF8&labelColor=0D1117&label=Followers" alt="Followers"/>&nbsp;&nbsp;<img src="https://img.shields.io/github/stars/devangdileep?style=flat-square&color=38BDF8&labelColor=0D1117&label=Stars&affiliations=OWNER" alt="Stars"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Open%20to-Collaborate-38BDF8?style=flat-square&labelColor=0D1117" alt="Open to Collaborate"/>
 </p>
 
-<br/>
-
 <!-- ───────────────── 01. ABOUT ME ───────────────── -->
 
 <h3 align="center"><samp><code>01</code>&nbsp;&nbsp;About Me</samp></h3>
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:38BDF8,100:0D1117&height=2" width="40%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:38BDF8,100:0D1117&height=2" width="35%"/>
 </div>
-
-<br/>
 
 <div align="center">
 
-🎓 &nbsp;**Education** &nbsp;·&nbsp; B.Tech in Computer Science Engineering (2nd Year)  
-🎯 &nbsp;**Focus** &nbsp;·&nbsp; Data Structures & Algorithms · Web Development · AI/ML  
-💻 &nbsp;**Languages** &nbsp;·&nbsp; Python · C++ · JavaScript · Java  
-🔨 &nbsp;**Building** &nbsp;·&nbsp; One meaningful project every month  
-🤝 &nbsp;**Open To** &nbsp;·&nbsp; Open source · Hackathons · Collaboration  
-☕ &nbsp;**Fun Fact** &nbsp;·&nbsp; I write better code after midnight  
+🎓 **Education** &nbsp;·&nbsp; B.Tech in Computer Science Engineering (2nd Year)  
+🎯 **Focus** &nbsp;·&nbsp; Data Structures & Algorithms · Web Development · AI/ML  
+💻 **Languages** &nbsp;·&nbsp; Python · C++ · JavaScript · Java  
+🔨 **Building** &nbsp;·&nbsp; One meaningful project every month  
+🤝 **Open To** &nbsp;·&nbsp; Open source · Hackathons · Collaboration  
+☕ **Fun Fact** &nbsp;·&nbsp; I write better code after midnight  
 
 </div>
-
-<br/>
 
 <p align="center">
 <img src="https://img.shields.io/badge/🎯_Focus-DSA_·_Web_Dev_·_AI-38BDF8?style=flat-square&labelColor=0D1117" alt="Focus"/>&nbsp;<img src="https://img.shields.io/badge/📚_Learning-React_·_Node.js_·_Flutter-38BDF8?style=flat-square&labelColor=0D1117" alt="Learning"/>&nbsp;<img src="https://img.shields.io/badge/🤝_Open_To-Open_Source_·_Hackathons-38BDF8?style=flat-square&labelColor=0D1117" alt="Open To"/>&nbsp;<img src="https://img.shields.io/badge/💡_Interests-AI_·_Mobile_Apps_·_Full--Stack-38BDF8?style=flat-square&labelColor=0D1117" alt="Interests"/>
 </p>
 
-<br/>
-
 <!-- ───────────────── 02. TECH STACK ───────────────── -->
 
 <h3 align="center"><samp><code>02</code>&nbsp;&nbsp;Tech Stack</samp></h3>
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:38BDF8,100:0D1117&height=2" width="40%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:38BDF8,100:0D1117&height=2" width="35%"/>
 </div>
 
-<br/>
-
 <p align="center">
-<img src="https://skillicons.dev/icons?i=py,cpp,c,java,js,react,nodejs,flutter&theme=dark" alt="Row 1"/>
-</p>
-<p align="center">
+<img src="https://skillicons.dev/icons?i=py,cpp,c,java,js,react,nodejs,flutter&theme=dark" alt="Row 1"/><br/>
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,mongodb,mysql,firebase,git,vscode&theme=dark" alt="Row 2"/>
 </p>
-
-<br/>
 
 <!-- ───────────────── 03. CURRENTLY LEARNING ───────────────── -->
 
 <h3 align="center"><samp><code>03</code>&nbsp;&nbsp;Currently Learning</samp></h3>
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:38BDF8,100:0D1117&height=2" width="40%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:38BDF8,100:0D1117&height=2" width="35%"/>
 </div>
-
-<br/>
 
 <div align="center">
 
 ```
- ╭──────────────╮     ╭──────────────╮     ╭──────────────╮     ╭──────────────╮
- │  Algorithms  │ ──▶ │  React +     │ ──▶ │   Flutter    │ ──▶ │   Machine    │
- │  & DSA       │     │  Node.js     │     │   & Mobile   │     │   Learning   │
- ╰──────────────╯     ╰──────────────╯     ╰──────────────╯     ╰──────────────╯
+ [Algorithms & DSA] ──▶ [React + Node.js] ──▶ [Flutter & Mobile] ──▶ [Machine Learning]
 ```
 
 </div>
-
-<br/>
 
 <!-- ───────────────── 04. GITHUB ANALYTICS ───────────────── -->
 
 <h3 align="center"><samp><code>04</code>&nbsp;&nbsp;GitHub Analytics</samp></h3>
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:38BDF8,100:0D1117&height=2" width="40%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:38BDF8,100:0D1117&height=2" width="35%"/>
 </div>
-
-<br/>
 
 <p align="center">
 <img src="https://github-stats-extended.vercel.app/api?username=devangdileep&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9" alt="GitHub Stats" width="48%"/>
-&nbsp;&nbsp;
+&nbsp;
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=devangdileep&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" alt="Top Languages" width="44%"/>
 </p>
 
-<br/>
-
-<div align="center">
-<img src="https://streak-stats.demolab.com/?user=devangdileep&theme=dark&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak"/>
-</div>
-
-<br/>
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=devangdileep&theme=dark&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak" width="48%"/>
+&nbsp;
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" width="48%"/>
+</p>
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=devangdileep&theme=react-dark&hide_border=true&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF&area=true&area_color=38BDF8" alt="Activity Graph" width="95%"/>
 </div>
 
-<br/>
-
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=devangdileep&theme=darkhub&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=7&row=1" alt="Trophies"/>
 </div>
-
-<br/>
 
 <div align="center">
 <img alt="Contribution Snake" src="https://raw.githubusercontent.com/devangdileep/devangdileep/output/github-contribution-grid-snake-dark.svg" width="95%"/>
 </div>
 
-<br/>
-
-<div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" width="70%"/>
-</div>
-
-<br/>
-
 <!-- ───────────────── 05. MY JOURNEY ───────────────── -->
 
 <h3 align="center"><samp><code>05</code>&nbsp;&nbsp;My Journey</samp></h3>
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:38BDF8,100:0D1117&height=2" width="40%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:38BDF8,100:0D1117&height=2" width="35%"/>
 </div>
-
-<br/>
 
 <div align="center">
 
@@ -154,84 +115,62 @@
 
 </div>
 
-<br/>
-
 <!-- ───────────────── 06. CODING PHILOSOPHY ───────────────── -->
 
 <h3 align="center"><samp><code>06</code>&nbsp;&nbsp;Coding Philosophy</samp></h3>
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:38BDF8,100:0D1117&height=2" width="40%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:38BDF8,100:0D1117&height=2" width="35%"/>
 </div>
-
-<br/>
 
 <div align="center">
 
-> *"The best way to learn is to build.*  
-> *The best way to grow is to ship.*  
-> *I'm doing both — one commit at a time."*
+> *"The best way to learn is to build. The best way to grow is to ship. I'm doing both — one commit at a time."*
 
 </div>
-
-<br/>
 
 <!-- ───────────────── 07. HOW I WORK ───────────────── -->
 
 <h3 align="center"><samp><code>07</code>&nbsp;&nbsp;How I Work</samp></h3>
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:38BDF8,100:0D1117&height=2" width="40%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:38BDF8,100:0D1117&height=2" width="35%"/>
 </div>
-
-<br/>
 
 <div align="center">
 
 ```
-   ┌─────────┐    ┌─────────┐    ┌─────────┐    ┌─────────┐    ┌─────────┐    ┌─────────┐
-   │  LEARN  │───▶│  PLAN   │───▶│  BUILD  │───▶│  TEST   │───▶│ DEPLOY  │───▶│ ITERATE │
-   └─────────┘    └─────────┘    └─────────┘    └─────────┘    └─────────┘    └─────────┘
+ 💡 LEARN  ──▶  📋 PLAN  ──▶  ⚡ BUILD  ──▶  🔍 TEST  ──▶  🚀 DEPLOY  ──▶  🔄 ITERATE
 ```
 
 </div>
-
-<br/>
 
 <!-- ───────────────── 08. FUN ZONE ───────────────── -->
 
 <h3 align="center"><samp><code>08</code>&nbsp;&nbsp;Fun Zone</samp></h3>
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:38BDF8,100:0D1117&height=2" width="40%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:38BDF8,100:0D1117&height=2" width="35%"/>
 </div>
-
-<br/>
 
 <div align="center">
 
 <em>"It works on my machine." — Every developer, ever.</em>
 
-<br/><br/>
+<br/>
 
 <img src="https://img.shields.io/badge/☕_Coffees_This_Semester-∞-38BDF8?style=flat-square&labelColor=0D1117"/>&nbsp;
 <img src="https://img.shields.io/badge/🌙_Peak_Hours-11PM_–_3AM-38BDF8?style=flat-square&labelColor=0D1117"/>&nbsp;
 <img src="https://img.shields.io/badge/🐛_Bugs_Created-yes-38BDF8?style=flat-square&labelColor=0D1117"/>&nbsp;
 <img src="https://img.shields.io/badge/🔍_Stack_Overflow-daily-38BDF8?style=flat-square&labelColor=0D1117"/>
 
-<br/><br/>
-
-<sub><samp>Why do programmers prefer dark mode? Because light attracts bugs. 🐛</samp></sub>
+<sub>Why do programmers prefer dark mode? Because light attracts bugs. 🐛</sub>
 
 </div>
-
-<br/>
 
 <!-- ───────────────── 09. CONNECT WITH ME ───────────────── -->
 
 <h3 align="center"><samp><code>09</code>&nbsp;&nbsp;Connect With Me</samp></h3>
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:38BDF8,100:0D1117&height=2" width="40%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:38BDF8,100:0D1117&height=2" width="35%"/>
 </div>
-
-<br/>
 
 <div align="center">
 <a href="https://github.com/devangdileep"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;
@@ -239,10 +178,10 @@
 <a href="mailto:devangdileep123@gmail.com"><img src="https://img.shields.io/badge/Email-38BDF8?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 
-<br/><br/>
+<br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:0F172A,50:1E293B,75:0F172A,100:0D1117&height=140&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:0F172A,50:1E293B,75:0F172A,100:0D1117&height=110&section=footer&animation=fadeIn" width="100%"/>
 </div>
 
 <p align="center">
