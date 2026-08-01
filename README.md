@@ -83,9 +83,7 @@ I'm a 2nd-year **Computer Science Engineering student** passionate about buildin
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=devangdileep&theme=react-dark&hide_border=true&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF&area=true&area_color=38BDF8" alt="Activity Graph" width="95%"/>
 </div>
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=devangdileep&theme=darkhub&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=7&row=1" alt="Trophies"/>
-</div>
+
 
 <div align="center">
 <img alt="Contribution Snake" src="https://raw.githubusercontent.com/devangdileep/devangdileep/output/github-contribution-grid-snake-dark.svg" width="95%"/>
