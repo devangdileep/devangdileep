@@ -22,7 +22,7 @@
 
 <!-- ───────────────── 01. ABOUT ME ───────────────── -->
 
-<h2 align="center"><samp><code>01</code>&nbsp;&nbsp;About Me</samp></h2>
+<h3 align="center"><samp><code>01</code>&nbsp;&nbsp;About Me</samp></h3>
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:38BDF8,100:0D1117&height=2" width="40%"/>
 </div>
@@ -50,7 +50,7 @@
 
 <!-- ───────────────── 02. TECH STACK ───────────────── -->
 
-<h2 align="center"><samp><code>02</code>&nbsp;&nbsp;Tech Stack</samp></h2>
+<h3 align="center"><samp><code>02</code>&nbsp;&nbsp;Tech Stack</samp></h3>
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:38BDF8,100:0D1117&height=2" width="40%"/>
 </div>
@@ -68,7 +68,7 @@
 
 <!-- ───────────────── 03. CURRENTLY LEARNING ───────────────── -->
 
-<h2 align="center"><samp><code>03</code>&nbsp;&nbsp;Currently Learning</samp></h2>
+<h3 align="center"><samp><code>03</code>&nbsp;&nbsp;Currently Learning</samp></h3>
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:38BDF8,100:0D1117&height=2" width="40%"/>
 </div>
@@ -90,7 +90,7 @@
 
 <!-- ───────────────── 04. GITHUB ANALYTICS ───────────────── -->
 
-<h2 align="center"><samp><code>04</code>&nbsp;&nbsp;GitHub Analytics</samp></h2>
+<h3 align="center"><samp><code>04</code>&nbsp;&nbsp;GitHub Analytics</samp></h3>
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:38BDF8,100:0D1117&height=2" width="40%"/>
 </div>
@@ -137,7 +137,7 @@
 
 <!-- ───────────────── 05. MY JOURNEY ───────────────── -->
 
-<h2 align="center"><samp><code>05</code>&nbsp;&nbsp;My Journey</samp></h2>
+<h3 align="center"><samp><code>05</code>&nbsp;&nbsp;My Journey</samp></h3>
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:38BDF8,100:0D1117&height=2" width="40%"/>
 </div>
@@ -158,7 +158,7 @@
 
 <!-- ───────────────── 06. CODING PHILOSOPHY ───────────────── -->
 
-<h2 align="center"><samp><code>06</code>&nbsp;&nbsp;Coding Philosophy</samp></h2>
+<h3 align="center"><samp><code>06</code>&nbsp;&nbsp;Coding Philosophy</samp></h3>
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:38BDF8,100:0D1117&height=2" width="40%"/>
 </div>
@@ -177,7 +177,7 @@
 
 <!-- ───────────────── 07. HOW I WORK ───────────────── -->
 
-<h2 align="center"><samp><code>07</code>&nbsp;&nbsp;How I Work</samp></h2>
+<h3 align="center"><samp><code>07</code>&nbsp;&nbsp;How I Work</samp></h3>
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:38BDF8,100:0D1117&height=2" width="40%"/>
 </div>
@@ -198,7 +198,7 @@
 
 <!-- ───────────────── 08. FUN ZONE ───────────────── -->
 
-<h2 align="center"><samp><code>08</code>&nbsp;&nbsp;Fun Zone</samp></h2>
+<h3 align="center"><samp><code>08</code>&nbsp;&nbsp;Fun Zone</samp></h3>
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:38BDF8,100:0D1117&height=2" width="40%"/>
 </div>
@@ -226,7 +226,7 @@
 
 <!-- ───────────────── 09. CONNECT WITH ME ───────────────── -->
 
-<h2 align="center"><samp><code>09</code>&nbsp;&nbsp;Connect With Me</samp></h2>
+<h3 align="center"><samp><code>09</code>&nbsp;&nbsp;Connect With Me</samp></h3>
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:38BDF8,100:0D1117&height=2" width="40%"/>
 </div>
