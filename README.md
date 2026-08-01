@@ -27,18 +27,13 @@
 
 <div align="center">
 
-🎓 **Education** &nbsp;·&nbsp; B.Tech in Computer Science Engineering (2nd Year)  
-🎯 **Focus** &nbsp;·&nbsp; Data Structures & Algorithms · Web Development · AI/ML  
-💻 **Languages** &nbsp;·&nbsp; Python · C++ · JavaScript · Java  
-🔨 **Building** &nbsp;·&nbsp; One meaningful project every month  
-🤝 **Open To** &nbsp;·&nbsp; Open source · Hackathons · Collaboration  
-☕ **Fun Fact** &nbsp;·&nbsp; I write better code after midnight  
+I'm a 2nd-year **Computer Science Engineering student** passionate about building web apps, mobile experiences, and AI solutions. Currently focused on mastering Data Structures & Algorithms and shipping projects.
+
+<br/>
+
+<img src="https://img.shields.io/badge/🎓_Education-B.Tech_CSE_(2nd_Year)-38BDF8?style=flat-square&labelColor=0D1117"/>&nbsp;<img src="https://img.shields.io/badge/🎯_Focus-DSA_·_Web_Dev_·_AI-38BDF8?style=flat-square&labelColor=0D1117"/>&nbsp;<img src="https://img.shields.io/badge/💻_Languages-Python_·_C++_·_JS_·_Java-38BDF8?style=flat-square&labelColor=0D1117"/>&nbsp;<img src="https://img.shields.io/badge/🤝_Open_To-Open_Source_·_Hackathons-38BDF8?style=flat-square&labelColor=0D1117"/>
 
 </div>
-
-<p align="center">
-<img src="https://img.shields.io/badge/🎯_Focus-DSA_·_Web_Dev_·_AI-38BDF8?style=flat-square&labelColor=0D1117" alt="Focus"/>&nbsp;<img src="https://img.shields.io/badge/📚_Learning-React_·_Node.js_·_Flutter-38BDF8?style=flat-square&labelColor=0D1117" alt="Learning"/>&nbsp;<img src="https://img.shields.io/badge/🤝_Open_To-Open_Source_·_Hackathons-38BDF8?style=flat-square&labelColor=0D1117" alt="Open To"/>&nbsp;<img src="https://img.shields.io/badge/💡_Interests-AI_·_Mobile_Apps_·_Full--Stack-38BDF8?style=flat-square&labelColor=0D1117" alt="Interests"/>
-</p>
 
 <!-- ───────────────── 02. TECH STACK ───────────────── -->
 
@@ -80,11 +75,9 @@
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=devangdileep&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" alt="Top Languages" width="44%"/>
 </p>
 
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=devangdileep&theme=dark&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak" width="48%"/>
-&nbsp;
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" width="48%"/>
-</p>
+<div align="center">
+<img src="https://streak-stats.demolab.com/?user=devangdileep&theme=dark&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak"/>
+</div>
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=devangdileep&theme=react-dark&hide_border=true&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF&area=true&area_color=38BDF8" alt="Activity Graph" width="95%"/>
@@ -107,11 +100,11 @@
 
 <div align="center">
 
-**CHAPTER 01** &nbsp;·&nbsp; Picked up programming out of pure curiosity — started with small scripts and competitive coding problems.  
-**CHAPTER 02** &nbsp;·&nbsp; Enrolled in B.Tech CSE — diving deep into data structures, algorithms, and CS fundamentals.  
-**CHAPTER 03** &nbsp;·&nbsp; Building real projects — web apps, mobile apps, and ML experiments to turn theory into working software.  
-**CHAPTER 04** &nbsp;·&nbsp; Exploring open source and hackathons — learning to collaborate and ship under pressure.  
-**NEXT** &nbsp;·&nbsp; Ship meaningful projects, contribute to open source, and grow into a software engineer — one commit at a time.  
+`01` &nbsp;**Started Coding** &nbsp;—&nbsp; Picked up programming out of pure curiosity.  
+`02` &nbsp;**B.Tech CSE** &nbsp;—&nbsp; Diving deep into Data Structures & Algorithms.  
+`03` &nbsp;**Building Apps** &nbsp;—&nbsp; Shipping web, mobile, and AI applications.  
+`04` &nbsp;**Open Source** &nbsp;—&nbsp; Contributing to repositories & hackathons.  
+`05` &nbsp;**What's Next** &nbsp;—&nbsp; Growing into a software engineer, one commit at a time.  
 
 </div>
 
