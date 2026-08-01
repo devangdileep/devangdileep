@@ -1,34 +1,22 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:150d2e,50:1B1035,75:150d2e,100:0D1117&height=230&section=header&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1B1035,100:0D1117&height=130&section=header&text=Devang%20Dileep&fontSize=38&fontColor=A78BFA&fontAlignY=40&animation=fadeIn" width="100%"/>
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=90&text=Devang%20Dileep&fontSize=50&fontColor=A78BFA&fontAlignY=55&animation=fadeIn&desc=&descAlignY=75" alt="Devang Dileep"/>
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=16&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&height=35&lines=Second-Year+CS+Student;Full-Stack+and+Mobile+Learner;AI+and+ML+Enthusiast;Turning+Curiosity+Into+Code" alt="Typing SVG" />
 </div>
 
 <h3 align="center">
   <samp>Second-Year CSE Student &nbsp;·&nbsp; Aspiring Full-Stack Developer &nbsp;·&nbsp; AI/ML Enthusiast</samp>
 </h3>
 
-<br/>
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=18&pause=1100&duration=2800&color=A78BFA&center=true&vCenter=true&width=620&height=40&lines=Second-Year+Computer+Science+Engineering+Student;Learning+Full-Stack+%26+Mobile+Development;Exploring+AI%2C+Machine+Learning+%26+Deep+Learning;Open-Source+Curious+%7C+Hackathon+Ready;Turning+Curiosity+Into+Code+—+One+Commit+at+a+Time" alt="Typing SVG" />
-</div>
-
-<br/>
-
 <p align="center">
   <em>"I don't have all the answers yet — but I'm writing code to find them."</em>
 </p>
 
-<br/>
-
 <p align="center">
 <a href="https://github.com/devangdileep"><img src="https://komarev.com/ghpvc/?username=devangdileep&label=Profile+Views&color=A78BFA&style=flat-square" alt="Profile Views"/></a>&nbsp;&nbsp;<img src="https://img.shields.io/github/followers/devangdileep?style=flat-square&color=A78BFA&labelColor=0D1117&label=Followers" alt="Followers"/>&nbsp;&nbsp;<img src="https://img.shields.io/github/stars/devangdileep?style=flat-square&color=38BDF8&labelColor=0D1117&label=Stars&affiliations=OWNER" alt="Stars"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Open%20to-Collaborate-38BDF8?style=flat-square&labelColor=0D1117" alt="Open to Collaborate"/>
 </p>
-
-<br/>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:A78BFA,100:0D1117&height=2" width="100%"/>
@@ -113,10 +101,10 @@
 <table>
 <tr>
 <td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=devangdileep&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=38BDF8&text_color=C9D1D9" alt="GitHub Stats" width="100%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=devangdileep&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=38BDF8&text_color=C9D1D9" alt="GitHub Stats" width="100%"/>
 </td>
 <td width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devangdileep&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Top Languages" width="100%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=devangdileep&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Top Languages" width="100%"/>
 </td>
 </tr>
 </table>
