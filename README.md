@@ -134,25 +134,19 @@ I'm a 2nd-year **Computer Science Engineering student** passionate about buildin
 
 </div>
 
-<!-- ───────────────── 08. FUN ZONE ───────────────── -->
+<!-- ───────────────── 08. BEYOND THE CODE ───────────────── -->
 
-<h3 align="center"><samp><code>08</code>&nbsp;&nbsp;Fun Zone</samp></h3>
+<h3 align="center"><samp><code>08</code>&nbsp;&nbsp;Beyond The Code</samp></h3>
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:38BDF8,100:0D1117&height=2" width="35%"/>
 </div>
 
 <div align="center">
 
-<em>"It works on my machine." — Every developer, ever.</em>
-
-<br/>
-
-<img src="https://img.shields.io/badge/☕_Coffees_This_Semester-∞-38BDF8?style=flat-square&labelColor=0D1117"/>&nbsp;
-<img src="https://img.shields.io/badge/🌙_Peak_Hours-11PM_–_3AM-38BDF8?style=flat-square&labelColor=0D1117"/>&nbsp;
-<img src="https://img.shields.io/badge/🐛_Bugs_Created-yes-38BDF8?style=flat-square&labelColor=0D1117"/>&nbsp;
-<img src="https://img.shields.io/badge/🔍_Stack_Overflow-daily-38BDF8?style=flat-square&labelColor=0D1117"/>
-
-<sub>Why do programmers prefer dark mode? Because light attracts bugs. 🐛</sub>
+💻 &nbsp;**Environment** &nbsp;·&nbsp; Linux / WSL2 &nbsp;·&nbsp; VS Code *(JetBrains Mono)*  
+🎧 &nbsp;**Coding Fuel** &nbsp;·&nbsp; Ambient Synth & Lofi Beats &nbsp;·&nbsp; Black Coffee  
+📖 &nbsp;**Reading** &nbsp;·&nbsp; Tech Blogs, System Design Docs & CS Fundamentals  
+🎯 &nbsp;**Current Goal** &nbsp;·&nbsp; Master Advanced DSA & Build Full-Stack Apps  
 
 </div>
 
